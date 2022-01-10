@@ -1,4 +1,6 @@
 numpy
 scipy
 ipywidgets
-nbinteract
+matplotlib
+sympy
+symengine
